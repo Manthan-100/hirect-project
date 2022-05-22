@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hirect-project/static/css/main.7f84ce57.css",
-    "main.js": "/hirect-project/static/js/main.ddb06edd.js",
+    "main.js": "/hirect-project/static/js/main.f73105ee.js",
     "index.html": "/hirect-project/index.html",
     "main.7f84ce57.css.map": "/hirect-project/static/css/main.7f84ce57.css.map",
-    "main.ddb06edd.js.map": "/hirect-project/static/js/main.ddb06edd.js.map"
+    "main.f73105ee.js.map": "/hirect-project/static/js/main.f73105ee.js.map"
   },
   "entrypoints": [
     "static/css/main.7f84ce57.css",
-    "static/js/main.ddb06edd.js"
+    "static/js/main.f73105ee.js"
   ]
 }
