@@ -14,7 +14,9 @@ const App = () => {
         const { value } = e.target;
         if (value.length >= 2) {
             const res = await getSearchData(value);
-            setVideosList(res.items);
+            if (res.items) {
+                setVideosList(res.items);
+            }
         } else {
             setVideosList([]);
         }
